@@ -15,4 +15,4 @@
 ### Review of operations and fulfillment practices at west coast DCs
 ### Further investigation into the large seasonal spike including frank discussions with operations managers and reasons for returns,
 ### Structured customer outreach program to understand high return rates and a thorough review of the existing return policy. 
-## [See the Tableau file here] 
+## [See the Tableau file here] (https://github.com/mmcassel/Data_Projects_TripleTen/blob/main/Superstore%20Tableau/Sprint%205%20Superstore%20Returns%20final.twbx)
